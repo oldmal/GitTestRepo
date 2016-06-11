@@ -24,4 +24,5 @@ body {
     color: #FFF; }
   body .third {
     width: 50%;
-    margin: auto; }
+    margin: auto;
+    margin-top: 20px; }
