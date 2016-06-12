@@ -1,0 +1,8 @@
+/*
+ * Oldmal's settings for comfort work
+ */
+
+{
+  "minify": false,
+  "outputDir": "auto"
+}
