@@ -15,7 +15,8 @@ body {
     display: -ms-flexbox;
     display: flex; }
   body .second {
-    width: 50%;
+
+    width: 60%;
     margin: auto;
     background-color: blue;
     margin-top: 10%;
