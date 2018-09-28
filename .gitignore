@@ -2,7 +2,6 @@ node_modules/
 *.sublime-workspace
 *.sublime-project
 test.txt
-test.scss
 app\scss\test.scss
 \app\scss\test.scss
 .\app\scss\test.scss
