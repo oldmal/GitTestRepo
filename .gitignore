@@ -3,4 +3,4 @@ node_modules/
 *.sublime-project
 test.scss
 test.txt
-# app\scss\test.scss
+app\scss\test.scss
