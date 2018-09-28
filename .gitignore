@@ -4,3 +4,4 @@ node_modules/
 test.scss
 test.txt
 app\scss\test.scss
+app\scss\some.scss
