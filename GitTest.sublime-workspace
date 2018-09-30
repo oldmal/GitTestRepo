@@ -1,0 +1,940 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"scro",
+				"scrollTop\t.scrollTop()"
+			],
+			[
+				"remov",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"get",
+				"get\t.get()"
+			],
+			[
+				"coso",
+				"console_log"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 1726,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/scss/styles.scss",
+			"settings":
+			{
+				"buffer_size": 523,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"packconli",
+				"Package Control: List Packages"
+			],
+			[
+				"packcon",
+				"Package Control: List Packages"
+			],
+			[
+				"packli",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"packcolin",
+				"Package Control: Install Package"
+			],
+			[
+				"instllpack",
+				"Package Control: Install Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"packlrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"paccolre",
+				"Package Control: Remove Package"
+			],
+			[
+				"packrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packre",
+				"Package Control: Remove Package"
+			],
+			[
+				"packconre",
+				"Package Control: Remove Package"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"packack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <p>"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pcli",
+				"Package Control: List Packages"
+			],
+			[
+				"pclist",
+				"Package Control: List Packages"
+			],
+			[
+				"pclis",
+				"Package Control: List Packages"
+			],
+			[
+				"pcin",
+				"Package Control: Install Package"
+			],
+			[
+				"pcre",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 379.0,
+		"history":
+		[
+			"clean",
+			"clear",
+			"var cat;",
+			"2+2",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/oldmal/Documents/OpenServer/domains/GitTest",
+		"/C/Users/oldmal/Documents/OpenServer/domains/GitTest/app",
+		"/C/Users/oldmal/Documents/OpenServer/domains/GitTest/app/scss"
+	],
+	"file_history":
+	[
+		"/C/Users/oldmal/Documents/OpenServer/domains/GitTest/.gitignore",
+		"/C/Users/oldmal/Documents/OpenServer/domains/LocalStorage/app/src/js/partials/footer.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/LocalStorage/app/src/js/pages/home.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/LocalStorage/app/src/sass/pages/home.scss",
+		"/C/Users/oldmal/Documents/OpenServer/domains/LocalStorage/app/src/sass/_main.scss",
+		"/C/Users/oldmal/Documents/OpenServer/domains/LocalStorage/app/view/index.php",
+		"/C/Users/oldmal/Documents/OpenServer/domains/LocalStorage/LocalStorage.sublime-project",
+		"/C/Users/oldmal/Documents/OpenServer/domains/LocalStorage/gulp/config.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/LocalStorage/app/src/js/pages/LocalStorage.sublime-project",
+		"/C/Users/oldmal/Documents/OpenServer/domains/LocalStorage/app/src/sass/base/_common.scss",
+		"/C/Users/oldmal/Documents/OpenServer/domains/LocalStorage/app/view/partials/footer.php",
+		"/C/Users/oldmal/Documents/OpenServer/domains/LocalStorage/app/src/sass/partials/_header.scss",
+		"/C/Users/oldmal/Documents/OpenServer/domains/LocalStorage/.jshintrc",
+		"/C/Users/oldmal/Documents/OpenServer/domains/LocalStorage/app/build/css/home.css",
+		"/C/Users/oldmal/Documents/OpenServer/domains/LocalStorage/node_modules/request/request.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/LocalStorage/app/src/js/partials/header.js",
+		"/C/Users/oldmal/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/oldmal/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/oldmal/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/oldmal/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/oldmal/AppData/Roaming/Sublime Text 3/Installed Packages/Emmet.sublime-package",
+		"/C/Users/oldmal/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/oldmal/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/oldmal/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/oldmal/Documents/OpenServer/domains/LocalStorage/package.json",
+		"/C/Users/oldmal/Documents/OpenServer/domains/LocalStorage/gulp/tasks/server.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/LocalStorage/index.html",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/index.yaml",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/js/app.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/page.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/oldmal/Downloads/Telegram Web.html",
+		"/C/nginx-1.13.8/nginx-1.13.8/logs/error.log",
+		"/C/nginx-1.13.8/nginx-1.13.8/conf/nginx.conf",
+		"/C/nginx-1.13.8/nginx-1.13.8/logs/access.log",
+		"/C/nginx-1.13.8/nginx-1.13.8/html/50x.html",
+		"/C/nginx-1.13.8/nginx-1.13.8/conf/fastcgi.conf",
+		"/C/Users/oldmal/Documents/OpenServer/domains/Habr/index.html",
+		"/C/Users/oldmal/Documents/projects/golfstream/gallery.html",
+		"/C/Users/oldmal/Documents/projects/golfstream/create.html",
+		"/C/Users/oldmal/Documents/projects/golfstream/index.html",
+		"/C/nginx-1.13.8/nginx-1.13.8/html/index.html",
+		"/C/Users/oldmal/Downloads/index.php",
+		"/C/Users/oldmal/Documents/OpenServer/domains/mocha/test.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/mocha/index.html",
+		"/C/Users/oldmal/Downloads/app/app/scss/pages/home.scss",
+		"/C/Users/oldmal/Documents/OpenServer/domains/mocha/test2.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/js/components/buttons.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/js/components/header.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/page.html",
+		"/C/ProgramData/MySQL/MySQL Server 5.7/my.ini",
+		"/C/ProgramData/MySQL/MySQL Server 5.7/installer_config.xml",
+		"/C/Program Files/MySQL/MySQL Workbench 6.3 CE/images/grt/grt_dict.png",
+		"/C/Program Files/MySQL/MySQL Workbench 6.3 CE/extras/sakila_full.mwb",
+		"/C/Program Files/MySQL/MySQL Workbench 6.3 CE/data/model_option_toolbar_physical_routinegroup.xml",
+		"/C/Program Files/MySQL/MySQL Workbench 6.3 CE/data/paper_types.xml",
+		"/C/Program Files/MySQL/MySQL Workbench 6.3 CE/data/shortcuts.xml",
+		"/C/Windows/ServiceProfiles/NetworkService/AppData/Local/Temp/{FE8F729E-764D-4840-B9E4-81A3693D2DA6}/nisfull.vdm",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/gulp/tasks/watch.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/gulp/tasks/build.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/.eslintrc",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/package.json",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/README.md",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/webpack.config.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/sass/_main.scss",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/.sass-lint.yml",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/.sass-lint-akella.yml",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/node_modules/require-dir/README.md",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/.editorconfig",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/sass/app.scss",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/build/css/app.css",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/sass/app.sass",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/sass/_main.sass",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/sass/generated/_sprite-svg.scss",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/build/img/sprite.svg",
+		"/C/Users/oldmal/Downloads/app/app/img/symbol-defs.svg",
+		"/C/Users/oldmal/Downloads/icomoon_3_icons/demo-files/demo.css",
+		"/C/Users/oldmal/Downloads/icomoon_3_icons/demo.html",
+		"/C/Users/oldmal/Downloads/icomoon_3_icons/style.css",
+		"/C/Users/oldmal/Downloads/icomoon_3_icons/svgxuse.min.js",
+		"/C/Users/oldmal/Downloads/app/app/js/lib/svgxuse.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/test.css",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/test.scss",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/node_modules/webpack/package.json",
+		"/C/Users/oldmal/Documents/OpenServer/domains/CSS3Practice/node_modules/webpack/package.json",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/build/js/app.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/gulp/util/handle-errors.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/js/components/sayHello.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/.jshintrc",
+		"/C/Users/oldmal/Downloads/Archive/view/components/scripts.php",
+		"/C/Users/oldmal/Downloads/Archive/view/pages/home.php",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/gulp/tasks/svgo.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/gulp/tasks/sprite-svg/sprite-svg.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/build/index.html",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/icons/insurance.svg",
+		"/C/Users/oldmal/Downloads/Archive/img/icons/tiles.svg",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/build/img/map.svg",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/img/svgo/map.svg",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/build/img/facebook.svg",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/img/svgo/facebook.svg",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/gulp/tasks/index/index.html",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/gulp/config.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/build/js/report.html",
+		"/C/Users/oldmal/Documents/OpenServer/domains/test/js/index.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/testPreloader/jquery.html5Loader.circular.js",
+		"/C/Users/oldmal/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/C/Users/oldmal/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/sass/_common.sass",
+		"/C/Users/oldmal/Documents/OpenServer/domains/canvas1/src/js/lib/sayHello.js",
+		"/C/Users/oldmal/Documents/OpenServer/domains/test/index.php",
+		"/C/Users/oldmal/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/oldmal/Documents/OpenServer/domains/test/action.php",
+		"/C/Users/oldmal/Downloads/n_a.alba.htm",
+		"/C/Users/oldmal/Google Drive/OpenServer/domains/test/action.php",
+		"/C/Users/oldmal/Documents/OpenServer/domains/Wordpresstest/wp-content/themes/oldmal-theme/functions.php",
+		"/C/Users/oldmal/Documents/OpenServer/domains/Wordpresstest/wp-content/themes/oldmal-theme/tgm/oldaml-theme.php",
+		"/C/Users/oldmal/Documents/OpenServer/domains/Wordpresstest/wp-content/themes/oldmal-theme/tgm/oldmal-theme.php",
+		"/C/Users/oldmal/Documents/OpenServer/domains/Wordpresstest/wp-content/themes/oldmal-theme/tgm/oldmal-th.php",
+		"/C/Users/oldmal/Documents/OpenServer/domains/Wordpresstest/wp-content/themes/oldmal-theme/tgm/example.php",
+		"/C/Users/oldmal/Documents/OpenServer/domains/Wordpresstest/wp-content/themes/oldmal-theme/page-home-page.php",
+		"/C/Users/oldmal/Documents/OpenServer/domains/Wordpresstest/wp-content/themes/oldmal-theme/template-parts/content-home.php",
+		"/C/Users/oldmal/Documents/OpenServer/domains/GitTest/app/css/styles.css",
+		"/C/Users/oldmal/Documents/OpenServer/domains/GitTest/app/index.html",
+		"/C/Users/oldmal/Downloads/wordpress-theme/dopmat/макет/index.html",
+		"/C/Users/oldmal/AppData/Local/Temp/tmpEC33.tmp.html",
+		"/C/Users/oldmal/Documents/OpenServer/domains/GitTest/package.json",
+		"/C/Users/oldmal/Documents/other/node_modules/jquery/dist/jquery.js",
+		"/C/Users/oldmal/Documents/other/node_modules/jquery/dist/core.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 135.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								408,
+								409
+							]
+						],
+						"settings":
+						{
+							"SL.115.region_keys":
+							[
+							],
+							"SL.133.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "app/scss/styles.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								208
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										267,
+										268
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										89,
+										90
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 124.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 424.0
+	},
+	"output.find_results":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "GitTest.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"base/commo",
+				"app\\src\\sass\\base\\_common.scss"
+			],
+			[
+				"footer.php",
+				"app\\view\\partials\\footer.php"
+			],
+			[
+				"header.sc",
+				"app\\src\\sass\\partials\\_header.scss"
+			],
+			[
+				"footer.js",
+				"app\\src\\js\\partials\\footer.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\oldmal\\Documents\\OpenServer\\domains\\LocalStorage\\LocalStorage.sublime-project"
+			]
+		],
+		"width": 691.0
+	},
+	"select_symbol":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"test",
+				"testFooter"
+			]
+		],
+		"width": 574.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
