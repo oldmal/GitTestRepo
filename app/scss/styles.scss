@@ -4,9 +4,10 @@ body {
   background-color: yellow;
   margin: 0;
   background-color: green;
-
-  
+  color: red;
+  background-color: red;
   .first {
+    columns: 3;
     background-color: saturate(#66ffcc, 50%);
     width: 50%;
     margin: auto;
